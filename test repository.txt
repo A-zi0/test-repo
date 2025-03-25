@@ -1,2 +1,3 @@
 test repository
 202200750 김승주 컴퓨터공학과/
+open sauce sw class tset
